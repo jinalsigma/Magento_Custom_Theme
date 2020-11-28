@@ -1,5 +1,7 @@
 <page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
     <head>
-        <link src="Magento_Theme::favicon.png" sizes="32*32"/>
+        <link src="Magento_Theme::favicon.ico" rel="icon" type="image/x-icon" sizes="32x32" />
+        <css src="Magento_Theme::calendar1.css"/>
+        <meta name="viewport" content="width=device-width, initial-scale=2"/>
     </head>
 </page>
