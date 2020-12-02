@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+    <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+        <!--<type name="Magento\Checkout\Model\Cart">-->
+            <!--<plugin disabled="false" name="Sigma_Plugin_Magento_Checkout_Model_Cart" type="Sigma\PluginTutorial\Plugin\Magento\Checkout\Model\Cart" sortOrder="10" />-->
+        <!--</type>-->
+        <!--<type name="Magento\Catalog\Model\Product">-->
+            <!--<plugin disabled="false" name="Sigma_Plugin_Magento_Checkout_Model_Product" type="Sigma\PluginTutorial\Plugin\Magento\Catalog\Model\Product" sortOrder="20" />-->
+        <!--</type>-->
+    <type name="Magento\Catalog\Model\Product">
+        <plugin disabled="false" name="Sigma_Plugin_Magento_Checkout_Model_ProductD" type="Sigma\PluginTutorial\Plugin\Magento\Catalog\Model\ProductD" sortOrder="10" />
+    </type>
+    <type name="Magento\Catalog\Model\Product">
+        <plugin disabled="false" name="Sigma_Plugin_Magento_Checkout_Model_ProductB" type="Sigma\PluginTutorial\Plugin\Magento\Catalog\Model\ProductB" sortOrder="20" />
+    </type>
+    <type name="Magento\Catalog\Model\Product">
+        <plugin disabled="false" name="Sigma_Plugin_Magento_Checkout_Model_ProductC" type="Sigma\PluginTutorial\Plugin\Magento\Catalog\Model\ProductC" sortOrder="30" />
+    </type>
+    </config>

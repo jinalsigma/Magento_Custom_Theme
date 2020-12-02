@@ -1,0 +1,51 @@
+2020-12-01T12:54:35+00:00 INFO (6): Array LogArray
+(
+    [uenc] => aHR0cDovL21hZ2VudG8yM3UuY29tL29saXZpYS0xLTQtemlwLWxpZ2h0LWphY2tldC5odG1s
+    [product] => 1402
+    [selected_configurable_option] => 
+    [related_product] => 
+    [item] => 1402
+    [form_key] => An6o8fAEbt1DxGxe
+    [super_attribute] => Array
+        (
+            [150] => 5593
+            [93] => 5476
+        )
+
+    [qty] => 1
+)
+
+2020-12-01T18:51:02+00:00 INFO (6): Array LogArray
+(
+    [uenc] => aHR0cDovL21hZ2VudG8yM3UuY29tL29saXZpYS0xLTQtemlwLWxpZ2h0LWphY2tldC5odG1s
+    [product] => 1402
+    [selected_configurable_option] => 
+    [related_product] => 
+    [item] => 1402
+    [form_key] => IYcDXhJg4QvJ1D1K
+    [super_attribute] => Array
+        (
+            [150] => 5593
+            [93] => 5476
+        )
+
+    [qty] => 1
+)
+
+2020-12-02T16:25:28+00:00 INFO (6): Array LogArray
+(
+    [uenc] => aHR0cDovL21hZ2VudG8yM3UuY29tL29saXZpYS0xLTQtemlwLWxpZ2h0LWphY2tldC5odG1s
+    [product] => 1402
+    [selected_configurable_option] => 
+    [related_product] => 
+    [item] => 1402
+    [form_key] => XyTyNy65MEK1k78T
+    [super_attribute] => Array
+        (
+            [150] => 5593
+            [93] => 5476
+        )
+
+    [qty] => 1
+)
+
